@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/README.md at master · jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project · GitHub</title>
+  <title>Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/CodeBook.md at master · jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project · GitHub</title>
     <meta name="description" content="Contribute to jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -45,7 +45,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="BF83:2B4B:1D9B9:26CE5:5F5A3F6D" data-pjax-transient="true"/><meta name="html-safe-nonce" content="78c2145c66b9717ca1bca1b778344d786bc52582" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9qY29tYmFyaS9QZWVyLWdyYWRlZC1Bc3NpZ25tZW50LUdldHRpbmctYW5kLUNsZWFuaW5nLURhdGEtQ291cnNlLVByb2plY3QiLCJyZXF1ZXN0X2lkIjoiQkY4MzoyQjRCOjFEOUI5OjI2Q0U1OjVGNUEzRjZEIiwidmlzaXRvcl9pZCI6IjE0NzM0OTU4NTUxMzUzNDIzNDUiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoLTEiLCJyZWdpb25fcmVuZGVyIjoiYXAtc291dGgtMSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="1a8aa08f0bba877d1f6040b814fa75795deb784a3dfa5d232ef350d3cab22eee" data-pjax-transient="true"/><meta name="cookie-consent-required" content="false" data-pjax-transient="true"/>
+  <meta name="request-id" content="BF84:0769:0116:0212:5F5A3F71" data-pjax-transient="true"/><meta name="html-safe-nonce" content="78c2145c66b9717ca1bca1b778344d786bc52582" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9qY29tYmFyaS9QZWVyLWdyYWRlZC1Bc3NpZ25tZW50LUdldHRpbmctYW5kLUNsZWFuaW5nLURhdGEtQ291cnNlLVByb2plY3QiLCJyZXF1ZXN0X2lkIjoiQkY4NDowNzY5OjAxMTY6MDIxMjo1RjVBM0Y3MSIsInZpc2l0b3JfaWQiOiIxNDczNDk1ODU1MTM1MzQyMzQ1IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImFwLXNvdXRoLTEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="c4424a7fcdd54eae18a73ac37b910325e52b043b5bd796e34ad8bf21d92e14b5" data-pjax-transient="true"/><meta name="cookie-consent-required" content="false" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:71946392" data-pjax-transient>
 
@@ -101,7 +101,7 @@
   <meta name="octolytics-dimension-user_id" content="22350181" /><meta name="octolytics-dimension-user_login" content="jcombari" /><meta name="octolytics-dimension-repository_id" content="71946392" /><meta name="octolytics-dimension-repository_nwo" content="jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="71946392" /><meta name="octolytics-dimension-repository_network_root_nwo" content="jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -146,7 +146,7 @@
         <div class="d-flex flex-items-center">
               <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
                 class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3d1f33928b128f5389e887de6e4acebd3eed5f62f722a41c3197ab3536ba0053"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2840a25476c360f8c5deed724c28146820dc1df4b484be4362449528e351bdaf"
                 data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
                 Sign&nbsp;up
               </a>
@@ -297,7 +297,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="nXZUdkVrsczkpihdALuV3R5qsxb4wyAfpfz3LhL8jbccbj+4yB1pluh2u7eR46fu/sXlJcmWShgmY/EdhMLPmQ==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="QKWB5EAgVXNDoe3ylIlhdtSh8rZD/Hzlg1IVg8DDzMbBveoqzVaNKU9xfhgF0VNFNA6khXKpFuIAzROwVv2O6A==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -419,15 +419,15 @@
 
           </div>
 
-        <a href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project%2Fblob%2Fmaster%2FREADME.md"
+        <a href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project%2Fblob%2Fmaster%2FCodeBook.md"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4bdad486230f26306003a0d3c294277103fc15a86f7c6ef644702128b5105239"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7ef8b98c57a2962c1af73528865d6914d0e1f30f02bee60c873de708426ff630"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
             <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=jcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project"
               class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4bdad486230f26306003a0d3c294277103fc15a86f7c6ef644702128b5105239"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7ef8b98c57a2962c1af73528865d6914d0e1f30f02bee60c873de708426ff630"
               data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
               Sign&nbsp;up
             </a>
@@ -510,7 +510,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-        <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="eb1183747ad8244479acee9db9eb2f9cc03797d13e6313acd326fcb927667b04" href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project">
+        <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f95b08736b226c12efb757ad9714deb49bd5b498dcbd7efffdf65a3aefb566f6" href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project">
     <svg height="16" class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"></path></svg>
     Watch
 </a>    <a class="social-count" href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/watchers"
@@ -521,7 +521,7 @@
   </li>
 
   <li>
-          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:71946392,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e99f8bba3d430739bb1eedf8d7dd701400464f38ee9d5bc2b7e548e95848936f" href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project">
+          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:71946392,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="84062241ce1a868b0d966a5e2ccdcfef34c8f3e9df2a5deef08e48b2b6796136" href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project">
       <svg vertical_align="text_bottom" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
       Star
 </a>
@@ -533,7 +533,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:71946392,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="914fd29c783774bb8a5584db5db8c5263f9a83347424947e73accf57f3262db0" href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:71946392,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1b08b0e9fda3c350663a48f8d01e030d322f4734700a73071ac35f8991a2caaa" href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project">
           <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
           Fork
 </a>
@@ -646,9 +646,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/4bc5ea8b679bf9030d417958cec45700a63e7a78/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/4bc5ea8b679bf9030d417958cec45700a63e7a78/CodeBook.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:56befe0d32cf726f973685784a1be566 -->
+    <!-- blob contrib key: blob_contributors:v22:42fc90d9eeba4072a17be107b812bf45 -->
       <signup-prompt class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
     <div class="signup-prompt p-4 text-center mb-4 rounded-1">
       <div class="position-relative">
@@ -662,7 +662,7 @@
         </button>
         <h3 class="pt-2">Join GitHub today</h3>
         <p class="col-6 mx-auto">GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.</p>
-        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="be00d395612151d4b01b7233dba8ac7aa0132123fcb4ba2cd54b878242144f2b" href="/join?source=prompt-blob-show&amp;source_repo=jcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project">Sign up</a>
+        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b88432b73db9ee83340c8fabd88567f0434856e95fdd023e6b16a4389e4ce66b" href="/join?source=prompt-blob-show&amp;source_repo=jcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project">Sign up</a>
       </div>
     </div>
   </signup-prompt>
@@ -680,7 +680,7 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
+    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/refs/master/CodeBook.md?source_action=show&amp;source_controller=blob" preload>
       <div class="SelectMenu-modal">
         <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
           <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
@@ -692,7 +692,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project"><span>Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project"><span>Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project</span></a></span></span><span class="separator">/</span><strong class="final-path">CodeBook.md</strong>
       </h2>
       <a href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -707,7 +707,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:71946392,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b48bfdc9c6f9dc9b411ce2cb073bab5e6c5f5f2dac54eb2a0dfdbe29a889eef9" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:71946392,&quot;originating_url&quot;:&quot;https://github.com/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a828d58e81c191dab46cfdbd33cfb4e6cf27e8b2af1c5b7e071a3d9a0f4fcd72" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small text-gray" aria-hidden="true">T</span>
 </a>            </li>
@@ -721,7 +721,7 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="CodeBook.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
@@ -731,7 +731,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/contributors/master/README.md" class="commit-loader">
+      <include-fragment src="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/contributors/master/CodeBook.md" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -754,16 +754,16 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      48 lines (34 sloc)
+      18 lines (13 sloc)
       <span class="file-info-divider"></span>
-    3.21 KB
+    999 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/raw/master/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blame/master/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/raw/master/CodeBook.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/jcombari/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/blame/master/CodeBook.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
@@ -775,11 +775,11 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <a href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project%2Fblob%2Fmaster%2FREADME.md" class="btn-octicon disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project%2Fblob%2Fmaster%2FCodeBook.md" class="btn-octicon disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg class="octicon octicon-pencil" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
           </a>
-          <a href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project%2Fblob%2Fmaster%2FREADME.md" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2Fjcombari%2FPeer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project%2Fblob%2Fmaster%2FCodeBook.md" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
           </a>
@@ -791,44 +791,23 @@
 
       
   <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-background-peer-graded-assignment-getting-and-cleaning-data-course-project-oct-2016" class="anchor" aria-hidden="true" href="#background-peer-graded-assignment-getting-and-cleaning-data-course-project-oct-2016"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Background Peer graded Assignment Getting and Cleaning Data Course Project Oct-2016</h1>
-<p>##Getting and Cleaning Data - peer assessment project</p>
-<p>The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with your script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.</p>
-<p>One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:</p>
-<p><a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones" rel="nofollow">http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones</a></p>
-<p>Here are the data for the project:</p>
-<p><a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" rel="nofollow">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a></p>
-<p>You should create one R script called run_analysis.R that does the following.</p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h2><a id="user-content-getting-and-cleaning-data---peer-assessment-project" class="anchor" aria-hidden="true" href="#getting-and-cleaning-data---peer-assessment-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Getting and Cleaning Data - peer assessment project</h2>
+<h2><a id="user-content-the-original-data-was-transformed-by" class="anchor" aria-hidden="true" href="#the-original-data-was-transformed-by"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>The original data was transformed by</h2>
 <ol>
-<li>Merges the training and the test sets to create one data set.</li>
-<li>Extracts only the measurements on the mean and standard deviation for each measurement.</li>
-<li>Uses descriptive activity names to name the activities in the data set</li>
-<li>Appropriately labels the data set with descriptive variable names.</li>
-<li>From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.</li>
-</ol>
-<p>#In the run_analysis.R script,  were recreated  each step.</p>
-<p>This file 'run_analysis.R' contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.</p>
-<h2><a id="user-content-about-this-r-script" class="anchor" aria-hidden="true" href="#about-this-r-script"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About this R script</h2>
-<p>File with R code "run_analysis.R" perform 5 following steps (in accordance assigned task of course work):</p>
-<ol>
-<li>Merging the training and the test sets to create one data set.<br>
-1.1 Reading files<br>
-1.1.1 Reading trainings tables<br>
-1.1.2 Reading testing tables<br>
-1.1.3 Reading feature vector<br>
-1.1.4 Reading activity labels<br>
-1.2 Assigning column names<br>
-1.3 Merging all data in one set</li>
-<li>Extracting only the measurements on the mean and standard deviation for each measurement<br>
-2.1 Reading column names<br>
-2.2 Create vector for defining ID, mean and standard deviation<br>
-2.3 Making nessesary subset from setAllInOne</li>
+<li>Merging the training and the test sets to create one data set.</li>
+<li>Extracting only the measurements on the mean and standard deviation for each measurement.</li>
 <li>Using descriptive activity names to name the activities in the data set</li>
-<li>Appropriately labeling the data set with descriptive variable names</li>
-<li>Creating a second, independent tidy data set with the average of each variable for each activity and each subject<br>
-5.1 Making second tidy data set<br>
-5.2 Writing second tidy data set in txt file</li>
+<li>Appropriately labeling the data set with descriptive activity names.</li>
+<li>Creating a second, independent tidy data set with the average of each variable for each activity and each subject.</li>
 </ol>
+<h2><a id="user-content-about-r-script" class="anchor" aria-hidden="true" href="#about-r-script"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About R script</h2>
+<p>File with R code "run_analysis.R" perform 5 following steps (in accordance assigned task of course work)</p>
+<h2><a id="user-content-about-variables" class="anchor" aria-hidden="true" href="#about-variables"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About variables:</h2>
+<ul>
+<li><code>x_train</code>, <code>y_train</code>, <code>x_test</code>, <code>y_test</code>, <code>subject_train</code> and <code>subject_test</code> contain the data from the downloaded files.</li>
+<li><code>x_data</code>, <code>y_data</code> and <code>subject_data</code> merge the previous datasets to further analysis.</li>
+<li><code>features</code> contains the correct names for the <code>x_data</code> dataset, which are applied to the column names stored in</li>
+</ul>
 </article>
   </div>
 
